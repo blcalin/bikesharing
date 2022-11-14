@@ -4,7 +4,7 @@
 The purpose of this project was to analyze Citibike trends to determine various factors such as gender, travel times and ridesharing locations during 2019. The analyses were performed using Jupyter Notebook and Tableau.
 
 ##Link to Tableau Story
-
+https://public.tableau.com/app/profile/bianca.calin1055/viz/CitibikeAnalysis_16681033269910/UserTypeStartingLocation_1
 
 ## Results and Analysis
 ### Results
